@@ -1,5 +1,4 @@
-I am a Quality Assurance (QA) professional with 8 years of industry experience. Currently, I am dedicated to enhancing my expertise by pursuing certification in Certified Information Systems Auditor (CISA).
-
+I am a Quality Assurance (QA) professional with 8 years of industry experience. 
 Training and Certifications
 I believe in the continuous pursuit of knowledge and have completed various training programs and certifications to stay updated with the latest trends and technologies in the field. Some of my notable certifications and trainings include:
 
