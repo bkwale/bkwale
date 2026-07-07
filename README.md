@@ -1,30 +1,29 @@
-I am a Quality Assurance (QA) professional with 8 years of industry experience. 
-Training and Certifications
-I believe in the continuous pursuit of knowledge and have completed various training programs and certifications to stay updated with the latest trends and technologies in the field. Some of my notable certifications and trainings include:
+# Hi, I'm Wale 👋🏾
 
-CCNA Security, 2010
-Network+ Training certificate, 2008
-Fintech Programme, SAÏD Business School, Oxford, 2020
-Project Management for All, 2022
-Certified Scrum Master, 2023
-Foundation of Cybersecurity, 2023
-Palo Alto Networks Cybersecurity Foundation, 2023
-IBM Cybersecurity Analyst, 2023
-Google Cybersecurity Action Team, 2023
-IBM Cybersecurity Capstone: Breach Response, 2023
-Managing Cybersecurity, 2023
-Managing Cybersecurity Incidents and Disasters, 2023
-GRC Approach to Managing Cybersecurity, 2023
-Introduction to Cloud SIEM, 2023
-Work Experience
-Throughout my career, I have worked on diverse projects across different industries, honing my skills and expertise. Some of the projects I have been involved in include:
+**Senior QA Engineer & Technical Project Manager — Payments & Fintech** | Berlin 🇩🇪
 
-Healthcare Live Data Migration Project
-E-commerce Website and App Testing
-Payment Processing
-Digital Marketing
+I've spent 9+ years breaking payment systems before customers can — SoftPOS, card readers, merchant onboarding, payment gateways, and the distributed backends behind them. These days I split my time between fintech consulting through my company **Tech Sanctum OÜ** and building my own products.
 
-<!---
-bkwale/bkwale is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 🔨 What I'm building
+
+- **Mindm8** — a mental health bridge between patients and GPs. The project closest to my heart.
+- **PayVerify** — merchant payment verification that stops fake transfer fraud at the till. MVP live.
+- **Anya** — a speech recovery companion using voice cloning for therapy.
+- **Berlin German** — a German learning app, born from my own A2 struggles.
+
+QA thinking runs through all of it: edge cases first, integration validation, ship with confidence.
+
+## 🧰 Toolbox
+
+**Test & automation:** Playwright · Selenium · Appium · Cucumber · Postman · Java · Groovy · Python
+**Distributed systems:** Kafka message flow testing · REST/contract testing · Kubernetes validation
+**Observability:** Splunk (SIEM certified, 94%) · Datadog
+**Building:** TypeScript · Next.js · Node.js · Turso · Vercel · Anthropic API
+
+## 📜 Credentials that matter
+
+Certified Scrum Master · Oxford Saïd Fintech Programme · Splunk SIEM (94.41%) · IBM Cybersecurity Analyst · CCNA Security
+
+## 📫 Reach me
+
+w.koleosho@outlook.com · [linkedin.com/in/wale-k](https://linkedin.com/in/wale-k)
