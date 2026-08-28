@@ -17,12 +17,12 @@ QA thinking runs through all of it: edge cases first, integration validation, sh
 
 **Test & automation:** Playwright · Selenium · Appium · Cucumber · Postman · Java · Groovy · Python
 **Distributed systems:** Kafka message flow testing · REST/contract testing · Kubernetes validation
-**Observability:** Splunk (SIEM certified, 94%) · Datadog
+**Observability:** Splunk (SIEM certified,) · Datadog
 **Building:** TypeScript · Next.js · Node.js · Turso · Vercel · Anthropic API
 
 ## 📜 Credentials that matter
 
-Certified Scrum Master · Oxford Saïd Fintech Programme · Splunk SIEM (94.41%) · IBM Cybersecurity Analyst · CCNA Security
+Certified Scrum Master · Oxford Saïd Fintech Programme · Splunk SIEM · IBM Cybersecurity Analyst · CCNA Security
 
 ## 📫 Reach me
 
