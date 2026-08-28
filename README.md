@@ -1,6 +1,6 @@
 # Hi, I'm Wale 👋🏾
 
-**Senior QA Engineer & Technical Project Manager — Payments & Fintech** | Berlin 🇩🇪
+**Senior QA Engineer & Technical Project Manager — Payments & Fintech** | Berlin 🇩🇪 | Hereford
 
 I've spent 9+ years breaking payment systems before customers can — SoftPOS, card readers, merchant onboarding, payment gateways, and the distributed backends behind them. These days I split my time between fintech consulting through my company **Tech Sanctum OÜ** and building my own products.
 
