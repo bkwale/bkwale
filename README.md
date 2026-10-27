@@ -8,7 +8,7 @@ I've spent 9+ years breaking payment systems before customers can — SoftPOS, c
 
 - **Mindm8** — a mental health bridge between patients and GPs. The project closest to my heart.
 - **PayVerify** — merchant payment verification that stops fake transfer fraud at the till. MVP live.
-- **Anya** — a speech recovery companion using voice cloning for therapy.
+- **Coordin.io** 
 - **Berlin German** — a German learning app, born from my own A2 struggles.
 
 QA thinking runs through all of it: edge cases first, integration validation, ship with confidence.
